@@ -1,0 +1,36 @@
+{
+  "workbench.colorTheme": "GitHub Dark",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontSize": 14,
+  "files.autoSave": "afterDelay",
+  "workbench.startupEditor": "none",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.lineHeight": 2.0,
+  "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "window.titleBarStyle": "custom",
+  "breadcrumbs.enabled": false,
+  "editor.wordWrap": "on",
+  "editor.cursorBlinking": "expand",
+  "editor.minimap.enabled": false,
+  "explorer.compactFolders": false,
+  "material-icon-theme.hidesExplorerArrows": true,
+  "workbench.tree.renderIndentGuides": "none",
+  "editor.scrollbar.horizontalScrollbarSize": 7,
+  "editor.scrollbar.verticalScrollbarSize": 7,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "apc.font.family": "JetBrains Mono",
+  "workbench.tips.enabled": false,
+
+  "apc.imports": [
+    "file:///home/bereket/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.1-universal/dist/updateHandler.js"
+  ],
+  "animations.Enabled": true,
+  "workbench.colorCustomizations": {
+    "terminal.background": "#00000000",
+    "terminal.integrated.cursorBlinking": true
+  },
+  "workbench.settings.applyToAllProfiles": ["workbench.colorCustomizations"]
+}
